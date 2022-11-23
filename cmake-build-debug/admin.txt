@@ -1,0 +1,6 @@
+From: thwe To->thwe transfered1000 amountSat Nov 12 12:10:28 2022
+$
+From: thwe To->thwe transfered123 amountSat Nov 12 12:10:35 2022
+$
+From: zar To->thwe transfered1200 amountSat Nov 12 12:10:53 2022
+$

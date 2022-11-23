@@ -1,0 +1,14 @@
+# ninja log v5
+6	2615	6895852045727707	CMakeFiles/Test.dir/KhineBank.cpp.obj	3fb7f6981807dbf5
+1	2317	6908095605699803	CMakeFiles/Test.dir/main.cpp.obj	156d3a38b0c97883
+221	509	6908134780627924	Test.exe	25480c655a3a7e6f
+3	598	6908953944537854	build.ninja	9aa63839da9c6990
+7	932	6896029534427735	CMakeFiles/Test.dir/test.cpp.obj	f6e6aa9e137f25bf
+4	219	6908134777744267	CMakeFiles/Test.dir/PointerTest.c.obj	2d727497a6f1a137
+4	148	6902951509925862	CMakeFiles/Test.dir/LinearSearch.cpp.obj	feff5e70d37f7272
+1	338	6908955720050041	CMakeFiles/Test.dir/PointerTest2.c.obj	606fdaa18e498b5e
+340	625	6908955722874224	Test.exe	96c994f4a6c8dfa2
+3	181	6908957269148103	CMakeFiles/Test.dir/PointerTest2.c.obj	606fdaa18e498b5e
+182	408	6908957271371682	Test.exe	96c994f4a6c8dfa2
+2	161	6908957459958602	CMakeFiles/Test.dir/PointerTest2.c.obj	606fdaa18e498b5e
+162	325	6908957461634546	Test.exe	96c994f4a6c8dfa2
