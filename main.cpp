@@ -415,3 +415,4 @@ int main(){
 
 // Problems
 // transition record codes များအား သီးသန့်ခွဲထားရန်
+//registration လုပ်ချိန်တွင် data များအား file ထဲတွင်သွားရောက်သိမ်းရန်
